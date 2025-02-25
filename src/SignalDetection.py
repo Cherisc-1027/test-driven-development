@@ -1,6 +1,6 @@
 import numpy as np
 import scipy.stats
-# created with the help of chatgpt
+# created with the help of chatgpt, group project members
 class SignalDetection:
    def __init__(self, hits, misses, falseAlarms, correctRejections):
        self.hits = hits
